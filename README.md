@@ -1,6 +1,6 @@
 ## Oi eu sou o Leonardo Dantas 👋
 
-- 🌱 Estudante de Análise e desenvolvimento de sistema 
+- 🌱 Graduação em Análise e desenvolvimento de sistema 
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
